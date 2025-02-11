@@ -34,14 +34,18 @@ Webbrowser – for opening web pages
 
 Installation
 
+
 Clone the Repository
 git clone https://github.com/MaryamMuskan3/RhombixTechnologies_Tasks.git
+
 cd RhombixTechnologies_Tasks
 
 Install Dependencies
+
 pip install SpeechRecognition pyttsx3 pywhatkit gtts pygame google-generativeai
 
 Run the Assistant
+
 python main.py
 
 Usage
@@ -60,6 +64,7 @@ Run main.py and speak commands like:
 
 
 About Me
+
 Hi, I'm Maryam Muskan, a Python Programming Intern at Rhombix Technologies. I am passionate about AI, automation, and Python development. This project is part of my internship, where I am building a smart virtual assistant using Python. I enjoy working with AI-powered applications and continuously improving my coding skills.
 
 📌 Connect with me:
