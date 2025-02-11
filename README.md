@@ -21,12 +21,6 @@ This is a Python-based virtual assistant developed as part of my internship. It 
 ✅ Answering queries using the Gemini AI model
 
 
-About Me
-
-I am Maryam Muskan, a passionate backend developer and a computer science student. Currently, I am interning at Rhombix Technologies, where I am working on various Python-based tasks.
-
 Contact me
 
 🔗 LinkedIn: Maryam Muskan (https://www.linkedin.com/in/maryam-muskan-395395210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-🔗 GitHub: MaryamMuskan3
