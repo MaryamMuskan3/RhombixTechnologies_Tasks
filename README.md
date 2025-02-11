@@ -17,25 +17,27 @@ Features
 
 Tech Stack
 
-Python
-SpeechRecognition – for voice input
+✅ Python
 
-Pyttsx3 – for text-to-speech output
+✅ SpeechRecognition – for voice input
 
-gTTS – Google Text-to-Speech
+✅ Pyttsx3 – for text-to-speech output
 
-Pygame – for audio playback
+✅ gTTS – Google Text-to-Speech
 
-Pywhatkit – for sending WhatsApp messages and playing YouTube videos
+✅ Pygame – for audio playback
 
-Google Generative AI (Gemini API) – for answering queries
+✅ Pywhatkit – for sending WhatsApp messages and playing YouTube videos
 
-Webbrowser – for opening web pages
+✅ Google Generative AI (Gemini API) – for answering queries
+
+✅ Webbrowser – for opening web pages
 
 Installation
 
 
 Clone the Repository
+
 git clone https://github.com/MaryamMuskan3/RhombixTechnologies_Tasks.git
 
 cd RhombixTechnologies_Tasks
@@ -52,15 +54,15 @@ Usage
 
 Run main.py and speak commands like:
 
-"Open Notepad"
+✅ "Open Notepad"
 
-"Play a song on YouTube"
+✅ "Play a song on YouTube"
 
-"Search for Python tutorials on Google"
+✅ "Search for Python tutorials on Google"
 
-"Send a WhatsApp message to [contact]"
+✅ "Send a WhatsApp message to [contact]"
 
-"What is the capital of France?" (Uses Gemini AI)
+✅ "What is the capital of France?" (Uses Gemini AI)
 
 
 About Me
@@ -68,6 +70,7 @@ About Me
 Hi, I'm Maryam Muskan, a Python Programming Intern at Rhombix Technologies. I am passionate about AI, automation, and Python development. This project is part of my internship, where I am building a smart virtual assistant using Python. I enjoy working with AI-powered applications and continuously improving my coding skills.
 
 📌 Connect with me:
+
 GitHub: MaryamMuskan3
 
 LinkedIn: Maryam Muskan
