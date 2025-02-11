@@ -73,4 +73,4 @@ Hi, I'm Maryam Muskan, a Python Programming Intern at Rhombix Technologies. I am
 
 GitHub: MaryamMuskan3
 
-LinkedIn: Maryam Muskan
+LinkedIn: Maryam Muskan (https://www.linkedin.com/in/maryam-muskan-395395210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
