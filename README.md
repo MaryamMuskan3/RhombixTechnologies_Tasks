@@ -7,7 +7,9 @@ Overview
 This repository contains the tasks assigned during my internship at Rhombix Technologies. Below is the breakdown of the completed tasks.
 
 
+
 Task 1: Virtual Voice Assistant using Python
+
 
 
 This is a Python-based virtual assistant developed as part of my internship. It can perform various tasks such as:
@@ -24,7 +26,9 @@ This is a Python-based virtual assistant developed as part of my internship. It 
 ✅ Answering queries using the Gemini AI model
 
 
+
 Task 2: Hangman Game in Python
+
 
 
 This is a text-based Hangman game implemented in Python. Features include:
@@ -39,7 +43,9 @@ This is a text-based Hangman game implemented in Python. Features include:
 ✅ Game ends when the word is guessed correctly or attempts are exhausted
 
 
+
 Task 3: Geo Location Tracker using Python
+
 
 
 Developed a Python script that automatically fetches the user's geolocation using their IP address and displays it on an interactive map using Folium. The map opens directly in Google Chrome for seamless visualization.
@@ -52,6 +58,7 @@ Developed a Python script that automatically fetches the user's geolocation usin
 ✅ Interactive map using Folium
 
 ✅ Map display in default browser (Chrome)
+
 
 
 Contact me
